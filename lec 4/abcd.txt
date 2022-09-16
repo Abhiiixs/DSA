@@ -1,0 +1,28 @@
+ 
+if 
+
+ col    =  j1    j2    j3 
+
+ row 1     A     A     A
+
+     2     B     B     B 
+
+     3     C     C     C
+
+
+
+    A + row - 1 =  A              // i+j - 1 
+
+
+
+   A  + row - 1 ;  
+   A  +  1  - 1 = A;          A + 3 - 1 
+ 
+   A +  2  - 1                A  + 2 = C 
+
+   A  + 1 = B
+
+
+  
+
+

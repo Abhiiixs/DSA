@@ -1,0 +1,58 @@
+
+
+                                col 1  2  3  4 
+                    row 
+                         1          D 
+                         2          C D
+                         3          B C D
+                         4          A B C D 
+                                    
+
+
+
+            this is revers print 
+
+            we have to find onli first value ex = D after that its  inreming  row++;
+
+
+            formula 
+
+            'A'+ n - row  
+            'A'+ n -  i ; 
+
+
+            for D 
+
+            A + N - i / row 
+            A + 4 - 1 = 3 
+            A + 3 = D
+
+
+            for C D 
+
+            A + n - row \ i ;
+
+            A + 4 - 2 = 2 
+            A + 2 = C 
+
+           for B
+
+           A + n - row \ i ; 
+
+           A + 4 - 3 = 1 
+
+           A + 1 = B 
+
+
+           for A
+
+            A + n - row \ i ; 
+
+            A + 4 - 4  = A 
+
+
+
+
+            
+ 
+
